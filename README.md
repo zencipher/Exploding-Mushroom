@@ -14,4 +14,4 @@ Project was for Mini-Project 4 for Object Oriented Programming (CSE-165) at UC M
 App was made using Visual Studio
 
 ### Note of Warning
-Instructors are beginning to use MOSS to catch cheaters. If you are a student copying this code, proceed with caution.
+Instructors are beginning to use [MOSS](https://theory.stanford.edu/~aiken/moss/) to catch cheaters. If you are a student copying this code, proceed with caution.
