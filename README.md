@@ -12,3 +12,6 @@ Repository does not include .sln file or glutapp resources that were used.
 Project was for Mini-Project 4 for Object Oriented Programming (CSE-165) at UC Merced Spring 2018
 
 App was made using Visual Studio
+
+### Note of Warning
+Instructors are beginning to use MOSS to catch cheaters. If you are a student copying this code, proceed with caution.
